@@ -8,6 +8,7 @@
 #ifndef IPLATFORM_H_
 #define IPLATFORM_H_
 
+#include "types.h"
 #include "INetwork.h"
 
 typedef struct IPlatform
